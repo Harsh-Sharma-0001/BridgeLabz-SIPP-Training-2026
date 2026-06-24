@@ -1,5 +1,4 @@
 class Bike extends Vehicle {
-
     private double dailyRate;
 
     public Bike(String vehicleNumber, String vehicleType, double dailyRate) {

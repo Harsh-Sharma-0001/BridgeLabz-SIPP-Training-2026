@@ -1,7 +1,5 @@
 public class Main {
-
     public static void main(String[] args) {
-
         int days = 5;
 
         Car car = new Car("UP93AB1234", "Car", 2000);

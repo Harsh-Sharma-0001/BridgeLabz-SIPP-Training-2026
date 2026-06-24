@@ -1,10 +1,8 @@
 class Truck extends Vehicle {
-
     private double dailyRate;
     private double loadingCharge;
 
-    public Truck(String vehicleNumber, String vehicleType,
-                 double dailyRate, double loadingCharge) {
+    public Truck(String vehicleNumber, String vehicleType, double dailyRate, double loadingCharge) {
         super(vehicleNumber, vehicleType);
         this.dailyRate = dailyRate;
         this.loadingCharge = loadingCharge;

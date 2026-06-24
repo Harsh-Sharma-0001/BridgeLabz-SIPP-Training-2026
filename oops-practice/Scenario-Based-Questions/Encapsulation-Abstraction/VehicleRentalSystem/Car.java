@@ -1,5 +1,4 @@
 class Car extends Vehicle {
-
     private double dailyRate;
 
     public Car(String vehicleNumber, String vehicleType, double dailyRate) {
