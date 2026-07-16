@@ -313,37 +313,42 @@ Problem categories include:
 
 # 🎯 Repository Purpose
 
-This repository is maintained to:
+This repository has been created and maintained as part of the **BridgeLabz SIPP Training 2026** program, following the guidance and instructions provided by my mentors.
 
-- Practice Java programming
-- Improve Data Structures & Algorithms
-- Learn Object-Oriented Programming
-- Strengthen SQL skills
-- Solve LeetCode problems
-- Store classroom assignments
-- Track learning progress throughout BridgeLabz SIPP Training
+The primary objectives of this repository are to:
+
+- Complete daily classroom practice and assignments.
+- Implement concepts learned during the training program.
+- Practice Core Java, Object-Oriented Programming, Data Structures & Algorithms, Collections Framework, and DBMS.
+- Solve coding and scenario-based problems.
+- Maintain a structured record of all completed work.
+- Demonstrate learning progress throughout the training.
+- Enable mentors to review, evaluate, and track my progress over the course of the program.
 
 ---
 
 # 📈 Progress
 
-This repository is updated regularly with:
+This repository is updated regularly throughout the BridgeLabz SIPP Training with:
 
 - Classroom Practice
-- Assignments
-- Daily Coding Problems
+- Daily Assignments
+- Core Java Programs
+- Object-Oriented Programming Exercises
+- Collections Framework Practice
+- Data Structures & Algorithms Problems
 - LeetCode Solutions
-- SQL Practice
-- DSA Problems
+- SQL & DBMS Practice
 - Scenario-Based Questions
+- Additional Practice and Learning Exercises
 
 ---
 
 # 🤝 Contributions
 
-This repository is maintained as part of my personal learning journey.
+This repository is primarily maintained as part of the **BridgeLabz SIPP Training 2026** for learning, practice, and mentor evaluation.
 
-Suggestions and improvements are always welcome.
+While the repository is intended for educational purposes, constructive feedback and suggestions for improvement are always appreciated.
 
 ---
 
@@ -357,6 +362,7 @@ GitHub: https://github.com/Harsh-Sharma-0001
 
 ---
 
-# ⭐ If you find this repository useful
+# ⭐ Support
 
-Please consider giving it a **Star ⭐**.
+If you find this repository helpful or informative, consider giving it a **Star ⭐**.
+It helps support my learning journey and encourages continuous improvement.
